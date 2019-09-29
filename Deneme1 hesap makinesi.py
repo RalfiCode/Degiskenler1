@@ -1,0 +1,7 @@
+sayi1 = int(input("Lütfen birinci sayiyi giriniz: "))
+sayi2 = int(input("Lütfen ikinci sayiyi giriniz: "))
+print("Toplama isleminin sonucu: ", sayi1 + sayi2)
+print("Cikarma isleminin sonucu: ", sayi1 - sayi2)
+print("Carpma isleminin sonucu: ", sayi1 * sayi2)
+print("Bolme isleminin sonucu: ", float(sayi1) / float(sayi2))
+print("Mod alma isleminin sonucu: ", sayi1%sayi2)
