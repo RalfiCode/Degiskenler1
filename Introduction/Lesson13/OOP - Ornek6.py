@@ -13,4 +13,4 @@ emp.soyisim = "Bahar"
 emp.telefon  = "05399125147"
 emp.mail = "ralfi.bahar@gmail.com"
 
-print(emp)
+print  (emp)
